@@ -1,8 +1,9 @@
-catboost==1.2.3
-dill==0.3.8
-Flask==3.0.2
-numpy==1.26.4
-pandas==2.2.1
-scikit_learn==1.4.1.post1
-setuptools==58.0.4
-xgboost==2.0.3
+catboost
+dill
+Flask
+numpy
+pandas
+scikit_learn
+setuptools
+xgboost
+# -e .
